@@ -3,3 +3,5 @@ Flask==1.0.2
 connexion
 flask_injector
 fastavro
+boto
+elasticsearch==7.1.0
