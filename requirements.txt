@@ -1,5 +1,5 @@
 pytest
-Flask==1.0.2
+Flask==2.3.2
 connexion
 flask_injector
 fastavro
